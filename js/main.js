@@ -8,7 +8,7 @@ $(document).ready(function () {
         item:1,
         margin: 10,
         nav: true,
-        autoplay:false,
+        autoplay:true,
         responsiveClass:true,
         responsive:{
             0:{
